@@ -21,6 +21,5 @@ django project which convert text to the html tags.
 
 9. output : 
 
-![image](https://user-images.githubusercontent.com/98692616/178480468-a82c9f04-2a65-4897-abb1-1937cf7df6db.png)
-
+![image](https://user-images.githubusercontent.com/72152220/189631459-0fcdc4ce-2824-4737-a962-0e421922ae70.png)
 for any query connect to linkedin https://www.linkedin.com/in/abhijitlingse/
